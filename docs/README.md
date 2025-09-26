@@ -20,9 +20,9 @@ Built for fast onboarding, clear troubleshooting, and easy collaboration.
 
 <table>
   <tr>
-    <td>🖥️ <strong><a href="host-node/setup_guide.md">Host Node Setup</a></strong><br/><small>Step-by-step install and configuration</small></td>
-    <td>🌐 <strong><a href="network/conceptual_overview.md">Network Overview</a></strong><br/><small>Diagrams and how components connect</small></td>
-    <td>🔌 <strong><a href="hardware/poe_power_budget.md">PoE Power Budget</a></strong><br/><small>Rules, examples, quick calculator notes</small></td>
+    <td>🖥️ <strong><a href="host-node/Host_Node_Setup_Guide.docx">Host Node Setup</a></strong><br/><small>Step-by-step install and configuration</small></td>
+    <td>🌐 <strong><a href="network/Network_Conceptual-Overview_7-3-25.docx">Network Overview</a></strong><br/><small>Diagrams and how components connect</small></td>
+    <td>🔌 <strong><a href="hardware/POE_Power-Budget_Report_7-10-25.pdf">PoE Power Budget</a></strong><br/><small>Rules, examples, quick calculator notes</small></td>
   </tr>
   <tr>
     <td>🧩 <strong><a href="../projects/arducam_enclosure/README.md">Arducam Enclosure</a></strong><br/><small>Models, print settings, assembly</small></td>
@@ -81,11 +81,6 @@ See the repo’s `CONTRIBUTING.md` and `.github/CODEOWNERS` for reviewers.
 - Add a short “Purpose” and “Steps” section to new guides.
 
 ---
-
-## Support
-
-- Have a question or found an issue? Open an <a href="../../issues">Issue</a>.  
-- Urgent blockers for lab work: contact the Makerspace leads listed in CODEOWNERS.
 
 ---
 
