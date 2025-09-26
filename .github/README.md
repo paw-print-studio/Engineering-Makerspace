@@ -577,9 +577,9 @@ Central hub for TXST Engineering Makerspace. Contains setup guides, hardware doc
 
 ## 📖 Quick Start
 
-- 🖥️ [Host Node Setup Guide](docs/host-node/setup_guide.md)
-- 🌐 [Network Conceptual Overview](docs/network/conceptual_overview.md)
-- 🔌 [POE Power Budget Summary](docs/hardware/poe_power_budget.md)
+- 🖥️ [Host Node Setup Guide](docs/host-node/Host_Node_Setup_Guide.docx)
+- 🌐 [Network Conceptual Overview](docs/network/Network_Conceptual-Overview_7-3-25.docx)
+- 🔌 [POE Power Budget Summary](docs/hardware/POE_Power-Budget-Report_7-10-25.pdf)
 
 ---
 
